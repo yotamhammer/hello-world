@@ -1,2 +1,5 @@
 # hello-world
-i learning new things!
+i am learning new things!
+
+i like tacos!
+cause they are tasty
